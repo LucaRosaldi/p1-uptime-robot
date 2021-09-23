@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/publione.it",
     "slug": "publi-one",
     "status": "up",
-    "uptime": "99.61%",
+    "uptime": "99.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
-    "time": 1158,
-    "timeDay": 964,
-    "timeWeek": 1087,
-    "timeMonth": 1158,
-    "timeYear": 1158,
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.64%",
+    "time": 1182,
+    "timeDay": 1605,
+    "timeWeek": 1119,
+    "timeMonth": 1182,
+    "timeYear": 1182,
     "dailyMinutesDown": {
       "2021-09-12": 77
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 886,
-    "timeDay": 602,
-    "timeWeek": 874,
-    "timeMonth": 886,
-    "timeYear": 886,
+    "time": 892,
+    "timeDay": 992,
+    "timeWeek": 860,
+    "timeMonth": 892,
+    "timeYear": 892,
     "dailyMinutesDown": {}
   }
 ]
