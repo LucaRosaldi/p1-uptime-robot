@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/publione.it.ico",
     "slug": "publi-one",
     "status": "up",
-    "uptime": "98.77%",
+    "uptime": "98.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.59%",
-    "time": 1419,
-    "timeDay": 1601,
-    "timeWeek": 1358,
-    "timeMonth": 1302,
-    "timeYear": 1302,
+    "time": 1420,
+    "timeDay": 1022,
+    "timeWeek": 1348,
+    "timeMonth": 1288,
+    "timeYear": 1301,
     "dailyMinutesDown": {
       "2023-02-09": 36,
       "2023-02-02": 25,
@@ -37,8 +37,7 @@
       "2022-06-25": 1440,
       "2022-06-24": 1440,
       "2022-06-23": 217,
-      "2022-06-20": 117,
-      "2022-06-19": 95
+      "2022-06-20": 117
     }
   },
   {
@@ -53,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 1072,
-    "timeDay": 1176,
-    "timeWeek": 868,
-    "timeMonth": 927,
-    "timeYear": 1022,
+    "timeDay": 641,
+    "timeWeek": 863,
+    "timeMonth": 911,
+    "timeYear": 1021,
     "dailyMinutesDown": {
       "2022-12-07": 22,
       "2022-11-18": 21,
@@ -68,8 +67,7 @@
       "2022-07-04": 58,
       "2022-07-03": 79,
       "2022-06-26": 45,
-      "2022-06-24": 23,
-      "2022-06-19": 41
+      "2022-06-24": 23
     }
   }
 ]
