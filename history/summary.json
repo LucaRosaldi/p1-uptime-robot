@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/publione.it.ico",
     "slug": "publi-one",
     "status": "up",
-    "uptime": "99.36%",
+    "uptime": "99.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 1203,
-    "timeDay": 1596,
-    "timeWeek": 1177,
-    "timeMonth": 1079,
+    "time": 1202,
+    "timeDay": 780,
+    "timeWeek": 1094,
+    "timeMonth": 1062,
     "timeYear": 1200,
     "dailyMinutesDown": {
       "2025-04-09": 18,
@@ -43,8 +43,7 @@
       "2024-07-31": 21,
       "2024-07-26": 95,
       "2024-07-25": 3,
-      "2024-07-07": 19,
-      "2024-06-14": 24
+      "2024-07-07": 19
     }
   },
   {
@@ -54,14 +53,14 @@
     "slug": "casta",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "98.42%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.82%",
     "time": 875,
-    "timeDay": 919,
-    "timeWeek": 927,
-    "timeMonth": 886,
+    "timeDay": 701,
+    "timeWeek": 875,
+    "timeMonth": 877,
     "timeYear": 880,
     "dailyMinutesDown": {
       "2025-06-12": 23,
@@ -99,8 +98,7 @@
       "2024-07-31": 20,
       "2024-07-26": 95,
       "2024-07-25": 3,
-      "2024-07-07": 18,
-      "2024-06-14": 23
+      "2024-07-07": 18
     }
   }
 ]
