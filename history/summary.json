@@ -6,15 +6,15 @@
     "slug": "publi-one",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "98.20%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.88%",
     "time": 1230,
-    "timeDay": 1104,
-    "timeWeek": 1226,
-    "timeMonth": 1135,
-    "timeYear": 1225,
+    "timeDay": 1292,
+    "timeWeek": 1268,
+    "timeMonth": 1143,
+    "timeYear": 1226,
     "dailyMinutesDown": {
       "2026-04-03": 33,
       "2026-03-06": 35,
@@ -36,16 +36,16 @@
     "url": "https://casta.com",
     "icon": "https://icons.duckduckgo.com/ip3/casta.com.ico",
     "slug": "casta",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
     "uptimeDay": "84.63%",
-    "uptimeWeek": "89.22%",
-    "uptimeMonth": "85.51%",
-    "uptimeYear": "98.79%",
+    "uptimeWeek": "89.21%",
+    "uptimeMonth": "85.58%",
+    "uptimeYear": "98.80%",
     "time": 1034,
     "timeDay": 1134,
-    "timeWeek": 1111,
-    "timeMonth": 1043,
+    "timeWeek": 1122,
+    "timeMonth": 1045,
     "timeYear": 1058,
     "dailyMinutesDown": {
       "2026-04-04": 221,
@@ -75,7 +75,7 @@
       "2026-03-10": 327,
       "2026-03-09": 277,
       "2026-03-08": 218,
-      "2026-03-07": 92
+      "2026-03-07": 61
     }
   }
 ]
