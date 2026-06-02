@@ -37,10 +37,10 @@
     "slug": "casta",
     "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "76.03%",
-    "uptimeWeek": "84.53%",
-    "uptimeMonth": "83.14%",
-    "uptimeYear": "97.79%",
+    "uptimeDay": "69.46%",
+    "uptimeWeek": "83.59%",
+    "uptimeMonth": "82.92%",
+    "uptimeYear": "97.77%",
     "time": 1068,
     "timeDay": 869,
     "timeWeek": 906,
@@ -88,7 +88,7 @@
       "2026-05-30": 346,
       "2026-05-31": 305,
       "2026-06-01": 345,
-      "2026-06-02": 0
+      "2026-06-02": 95
     }
   }
 ]
