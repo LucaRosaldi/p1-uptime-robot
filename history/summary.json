@@ -35,17 +35,17 @@
     "url": "https://casta.com",
     "icon": "https://icons.duckduckgo.com/ip3/casta.com.ico",
     "slug": "casta",
-    "status": "down",
-    "uptime": "99.39%",
-    "uptimeDay": "42.44%",
-    "uptimeWeek": "46.79%",
-    "uptimeMonth": "74.49%",
-    "uptimeYear": "97.09%",
+    "status": "up",
+    "uptime": "99.38%",
+    "uptimeDay": "38.54%",
+    "uptimeWeek": "45.37%",
+    "uptimeMonth": "74.16%",
+    "uptimeYear": "97.06%",
     "time": 1060,
-    "timeDay": 747,
-    "timeWeek": 1025,
-    "timeMonth": 1089,
-    "timeYear": 1086,
+    "timeDay": 750,
+    "timeWeek": 1012,
+    "timeMonth": 1085,
+    "timeYear": 1085,
     "dailyMinutesDown": {
       "2026-04-25": 748,
       "2026-04-26": 332,
@@ -90,7 +90,7 @@
       "2026-06-05": 845,
       "2026-06-06": 820,
       "2026-06-07": 1071,
-      "2026-06-08": 418
+      "2026-06-08": 561
     }
   }
 ]
