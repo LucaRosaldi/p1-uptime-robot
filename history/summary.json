@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 1216,
-    "timeDay": 1258,
-    "timeWeek": 1190,
-    "timeMonth": 1161,
-    "timeYear": 1250,
+    "timeDay": 958,
+    "timeWeek": 1142,
+    "timeMonth": 1159,
+    "timeYear": 1249,
     "dailyMinutesDown": {
       "2025-08-19": 23,
       "2025-08-23": 87,
@@ -34,17 +34,17 @@
     "slug": "casta",
     "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "71.61%",
-    "uptimeWeek": "55.45%",
-    "uptimeMonth": "40.61%",
-    "uptimeYear": "94.87%",
+    "uptimeDay": "61.38%",
+    "uptimeWeek": "53.98%",
+    "uptimeMonth": "40.57%",
+    "uptimeYear": "94.86%",
     "time": 1073,
-    "timeDay": 1052,
-    "timeWeek": 1033,
-    "timeMonth": 1073,
+    "timeDay": 1017,
+    "timeWeek": 1032,
+    "timeMonth": 1076,
     "timeYear": 1095,
     "dailyMinutesDown": {
-      "2026-06-27": 410,
+      "2026-06-27": 347,
       "2026-06-28": 526,
       "2026-06-29": 755,
       "2026-06-30": 1113,
@@ -75,7 +75,8 @@
       "2026-07-25": 656,
       "2026-07-26": 971,
       "2026-07-27": 738,
-      "2026-07-28": 408
+      "2026-07-28": 422,
+      "2026-07-29": 133
     }
   }
 ]
