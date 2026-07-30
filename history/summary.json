@@ -5,33 +5,43 @@
     "icon": "https://icons.duckduckgo.com/ip3/publione.it.ico",
     "slug": "publi-one",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.94%",
     "time": 1216,
     "timeDay": 1134,
     "timeWeek": 1106,
     "timeMonth": 1166,
     "timeYear": 1249,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-19": 23,
+      "2025-08-23": 87,
+      "2025-08-30": 16,
+      "2025-09-03": 48,
+      "2025-10-01": 25,
+      "2025-11-06": 28,
+      "2026-01-25": 20,
+      "2026-03-06": 35,
+      "2026-04-03": 33
+    }
   },
   {
     "name": "Casta",
     "url": "https://casta.com",
     "icon": "https://icons.duckduckgo.com/ip3/casta.com.ico",
     "slug": "casta",
-    "status": "down",
-    "uptime": "98.96%",
-    "uptimeDay": "60.58%",
-    "uptimeWeek": "47.78%",
+    "status": "up",
+    "uptime": "98.95%",
+    "uptimeDay": "57.80%",
+    "uptimeWeek": "47.56%",
     "uptimeMonth": "41.44%",
-    "uptimeYear": "94.91%",
+    "uptimeYear": "94.88%",
     "time": 1074,
-    "timeDay": 994,
-    "timeWeek": 1021,
-    "timeMonth": 1069,
+    "timeDay": 988,
+    "timeWeek": 1025,
+    "timeMonth": 1070,
     "timeYear": 1095,
     "dailyMinutesDown": {
       "2026-06-30": 1113,
@@ -65,7 +75,7 @@
       "2026-07-27": 738,
       "2026-07-28": 422,
       "2026-07-29": 1018,
-      "2026-07-30": 155
+      "2026-07-30": 292
     }
   }
 ]
